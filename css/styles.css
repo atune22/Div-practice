@@ -1,0 +1,25 @@
+div#top{
+   background-color:blue;
+   }
+h1#name{
+    text-align:center;
+    color: white;
+}
+h1#occupation{
+    text-align:center;
+    color: white;
+}
+#volley{
+    width: 100px;
+    height: 100px;
+}
+div#volley{
+	margin-right:117px;
+	margin-left:56px;
+	margin-top:167px;
+}
+   div#thing{
+   
+   }
+body{
+ 
